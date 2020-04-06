@@ -1,5 +1,3 @@
 # ViniciusBrettas_Projeto
 
-
-
-API: https://developer.musixmatch.com/
+API: https://www.themoviedb.org/
